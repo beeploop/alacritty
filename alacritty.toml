@@ -5,7 +5,7 @@ dimensions.lines = 40
 padding.x = 8
 padding.y = 8
 
-opacity = 0.97
+opacity = 0.99
 
 [font]
 normal.family = "FiraCode Nerd Font Mono"
@@ -18,5 +18,5 @@ style.blinking = "Always"
 # Theme
 [general]
 import = [
-    "./themes/night_owl.toml"
+    "./themes/everforest_dark.toml"
 ]
