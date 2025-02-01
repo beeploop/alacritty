@@ -18,5 +18,5 @@ style.blinking = "Always"
 # Theme
 [general]
 import = [
-    "./themes/everforest_dark.toml"
+    "./themes/rose_pine_moon.toml"
 ]
